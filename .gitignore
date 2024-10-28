@@ -1,0 +1,10 @@
+.vscode/
+
+*.exe
+*.exe.i64
+*.EXE
+*.BRK
+*.o
+*.out
+
+main
